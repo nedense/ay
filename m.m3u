@@ -33,5 +33,5 @@ https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cz/FilmPlus.cz.png",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/it/TopCrime.it.png" group-title="Undefined",True Crime
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/TopCrime.it.png",True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
